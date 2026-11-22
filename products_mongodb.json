@@ -1,0 +1,4585 @@
+[
+  {
+    "product_id": 1,
+    "sku": "SAM-A56-256",
+    "product_name": "Samsung Galaxy A56 5G 256GB",
+    "description": "Điện thoại thông minh màn hình AMOLED, bộ nhớ 256GB.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 1,
+      "brand_name": "Samsung",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 10990000,
+    "currency": "VND",
+    "stock_quantity": 45,
+    "status": "ACTIVE",
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_mah": 5000,
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "samsung"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 2,
+    "sku": "APL-IP16-128",
+    "product_name": "Apple iPhone 16 128GB",
+    "description": "Điện thoại thông minh Apple dung lượng 128GB.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 2,
+      "brand_name": "Apple",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 19990000,
+    "currency": "VND",
+    "stock_quantity": 20,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 128,
+      "screen_inch": 6.1,
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "apple"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 3,
+    "sku": "LL-AIRFRY-57",
+    "product_name": "Nồi chiên không dầu LocknLock 5.7L",
+    "description": "Nồi chiên không dầu dung tích 5.7 lít.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 2450000,
+    "currency": "VND",
+    "stock_quantity": 32,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 5.7,
+      "power_w": 1700,
+      "material": "Thép phủ chống dính"
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 4,
+    "sku": "LL-BOTTLE-500",
+    "product_name": "Bình giữ nhiệt LocknLock 500ml",
+    "description": "Bình giữ nhiệt inox dung tích 500ml.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 390000,
+    "currency": "VND",
+    "stock_quantity": 80,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_ml": 500,
+      "material": "Thép không gỉ",
+      "color": "Bạc"
+    },
+    "tags": [
+      "do-gia-dung",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 5,
+    "sku": "ADI-TSHIRT-M",
+    "product_name": "Áo thun thể thao Adidas Essentials",
+    "description": "Áo thun thể thao chất liệu cotton pha.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 4,
+      "brand_name": "Adidas",
+      "origin_country": "Đức"
+    },
+    "price": 590000,
+    "currency": "VND",
+    "stock_quantity": 55,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "M",
+      "color": "Trắng",
+      "material": "Cotton"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "adidas"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 6,
+    "sku": "XIA-BAND-9",
+    "product_name": "Xiaomi Smart Band 9",
+    "description": "Vòng đeo tay thông minh theo dõi sức khỏe.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 890000,
+    "currency": "VND",
+    "stock_quantity": 60,
+    "status": "ACTIVE",
+    "attributes": {
+      "screen_type": "AMOLED",
+      "battery_days": 21,
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 7,
+    "sku": "XIA-ROBOT-S20",
+    "product_name": "Robot hút bụi Xiaomi S20",
+    "description": "Robot hút bụi lau nhà thông minh.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 4990000,
+    "currency": "VND",
+    "stock_quantity": 18,
+    "status": "ACTIVE",
+    "attributes": {
+      "suction_pa": 5000,
+      "battery_mah": 3200,
+      "mapping": "Laser"
+    },
+    "tags": [
+      "do-gia-dung",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 8,
+    "sku": "PHI-RICE-HD4515",
+    "product_name": "Nồi cơm điện Philips HD4515",
+    "description": "Nồi cơm điện tử lòng nồi chống dính.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 7,
+      "brand_name": "Philips",
+      "origin_country": "Hà Lan"
+    },
+    "price": 1590000,
+    "currency": "VND",
+    "stock_quantity": 27,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.8,
+      "power_w": 860,
+      "functions": [
+        "Nấu cơm",
+        "Hấp",
+        "Giữ ấm"
+      ]
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "philips"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 9,
+    "sku": "LOG-M331",
+    "product_name": "Chuột không dây Logitech M331",
+    "description": "Chuột không dây yên tĩnh dùng cho văn phòng.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 10,
+      "brand_name": "Logitech",
+      "origin_country": "Thụy Sĩ"
+    },
+    "price": 399000,
+    "currency": "VND",
+    "stock_quantity": 70,
+    "status": "ACTIVE",
+    "attributes": {
+      "connection": "USB 2.4GHz",
+      "dpi": 1000,
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "logitech"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 10,
+    "sku": "SONY-WH1000XM5",
+    "product_name": "Tai nghe Sony WH-1000XM5",
+    "description": "Tai nghe chụp tai chống ồn chủ động.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 6,
+      "brand_name": "Sony",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 6990000,
+    "currency": "VND",
+    "stock_quantity": 14,
+    "status": "ACTIVE",
+    "attributes": {
+      "connection": "Bluetooth",
+      "noise_cancelling": true,
+      "battery_hours": 30
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "sony"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 11,
+    "sku": "SAM-1-0011",
+    "product_name": "Smart TV Samsung Crystal UHD 43 inch",
+    "description": "Smart TV Samsung Crystal UHD 43 inch, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 1,
+      "brand_name": "Samsung",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 8855000,
+    "currency": "VND",
+    "stock_quantity": 77,
+    "status": "ACTIVE",
+    "attributes": {
+      "screen_inch": 55,
+      "resolution": "4K UHD",
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "samsung"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 12,
+    "sku": "LG-1-0012",
+    "product_name": "Smart TV LG UHD 50 inch",
+    "description": "Smart TV LG UHD 50 inch, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 10990000,
+    "currency": "VND",
+    "stock_quantity": 69,
+    "status": "ACTIVE",
+    "attributes": {
+      "screen_inch": 55,
+      "resolution": "4K UHD",
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 13,
+    "sku": "SON-1-0013",
+    "product_name": "Loa Bluetooth Sony SRS-XB100",
+    "description": "Loa Bluetooth Sony SRS-XB100, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 6,
+      "brand_name": "Sony",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 1005000,
+    "currency": "VND",
+    "stock_quantity": 35,
+    "status": "ACTIVE",
+    "attributes": {
+      "connection": "Bluetooth",
+      "water_resistant": true,
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "sony"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 14,
+    "sku": "CAN-1-0014",
+    "product_name": "Máy ảnh Canon EOS R50 Kit",
+    "description": "Máy ảnh Canon EOS R50 Kit, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 15,
+      "brand_name": "Canon",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 18705000,
+    "currency": "VND",
+    "stock_quantity": 85,
+    "status": "ACTIVE",
+    "attributes": {
+      "sensor": "CMOS",
+      "video": "4K",
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "canon"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 15,
+    "sku": "XIA-1-0015",
+    "product_name": "Router Wi-Fi Xiaomi Router AX3000",
+    "description": "Router Wi-Fi Xiaomi Router AX3000, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 890000,
+    "currency": "VND",
+    "stock_quantity": 54,
+    "status": "ACTIVE",
+    "attributes": {
+      "wifi": "Wi-Fi 6",
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 16,
+    "sku": "LOG-1-0016",
+    "product_name": "Webcam Logitech C920 HD Pro",
+    "description": "Webcam Logitech C920 HD Pro, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 10,
+      "brand_name": "Logitech",
+      "origin_country": "Thụy Sĩ"
+    },
+    "price": 1715000,
+    "currency": "VND",
+    "stock_quantity": 90,
+    "status": "ACTIVE",
+    "attributes": {
+      "resolution": "Full HD",
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "logitech"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 17,
+    "sku": "SAM-1-0017",
+    "product_name": "Smart TV Samsung QLED 55 inch",
+    "description": "Smart TV Samsung QLED 55 inch, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 1,
+      "brand_name": "Samsung",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 13780000,
+    "currency": "VND",
+    "stock_quantity": 83,
+    "status": "ACTIVE",
+    "attributes": {
+      "screen_inch": 55,
+      "resolution": "4K UHD",
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "samsung"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 18,
+    "sku": "LG-1-0018",
+    "product_name": "Smart TV LG NanoCell 55 inch",
+    "description": "Smart TV LG NanoCell 55 inch, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 15990000,
+    "currency": "VND",
+    "stock_quantity": 9,
+    "status": "ACTIVE",
+    "attributes": {
+      "screen_inch": 55,
+      "resolution": "4K UHD",
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 19,
+    "sku": "SON-1-0019",
+    "product_name": "Loa Bluetooth Sony ULT FIELD 1",
+    "description": "Loa Bluetooth Sony ULT FIELD 1, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 6,
+      "brand_name": "Sony",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 2527000,
+    "currency": "VND",
+    "stock_quantity": 12,
+    "status": "ACTIVE",
+    "attributes": {
+      "connection": "Bluetooth",
+      "water_resistant": true,
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "sony"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 20,
+    "sku": "CAN-1-0020",
+    "product_name": "Máy ảnh Canon EOS R10 Kit",
+    "description": "Máy ảnh Canon EOS R10 Kit, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 15,
+      "brand_name": "Canon",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 23630000,
+    "currency": "VND",
+    "stock_quantity": 85,
+    "status": "ACTIVE",
+    "attributes": {
+      "sensor": "CMOS",
+      "video": "4K",
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "canon"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 21,
+    "sku": "XIA-1-0021",
+    "product_name": "Router Wi-Fi Xiaomi Router AX3200",
+    "description": "Router Wi-Fi Xiaomi Router AX3200, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 1190000,
+    "currency": "VND",
+    "stock_quantity": 54,
+    "status": "ACTIVE",
+    "attributes": {
+      "wifi": "Wi-Fi 6",
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 22,
+    "sku": "LOG-1-0022",
+    "product_name": "Webcam Logitech C922 Pro Stream",
+    "description": "Webcam Logitech C922 Pro Stream, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 10,
+      "brand_name": "Logitech",
+      "origin_country": "Thụy Sĩ"
+    },
+    "price": 2223000,
+    "currency": "VND",
+    "stock_quantity": 107,
+    "status": "ACTIVE",
+    "attributes": {
+      "resolution": "Full HD",
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "logitech"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 23,
+    "sku": "SAM-1-0023",
+    "product_name": "Smart TV Samsung Neo QLED 65 inch",
+    "description": "Smart TV Samsung Neo QLED 65 inch, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 1,
+      "brand_name": "Samsung",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 28555000,
+    "currency": "VND",
+    "stock_quantity": 7,
+    "status": "ACTIVE",
+    "attributes": {
+      "screen_inch": 55,
+      "resolution": "4K UHD",
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "samsung"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 24,
+    "sku": "LG-1-0024",
+    "product_name": "Smart TV LG OLED 65 inch",
+    "description": "Smart TV LG OLED 65 inch, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 32990000,
+    "currency": "VND",
+    "stock_quantity": 26,
+    "status": "ACTIVE",
+    "attributes": {
+      "screen_inch": 55,
+      "resolution": "4K UHD",
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 25,
+    "sku": "SON-1-0025",
+    "product_name": "Loa Bluetooth Sony SRS-XE300",
+    "description": "Loa Bluetooth Sony SRS-XE300, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 6,
+      "brand_name": "Sony",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 3542000,
+    "currency": "VND",
+    "stock_quantity": 60,
+    "status": "ACTIVE",
+    "attributes": {
+      "connection": "Bluetooth",
+      "water_resistant": true,
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "sony"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 26,
+    "sku": "CAN-1-0026",
+    "product_name": "Máy ảnh Canon PowerShot V10",
+    "description": "Máy ảnh Canon PowerShot V10, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 15,
+      "brand_name": "Canon",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 10825000,
+    "currency": "VND",
+    "stock_quantity": 68,
+    "status": "ACTIVE",
+    "attributes": {
+      "sensor": "CMOS",
+      "video": "4K",
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "canon"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 27,
+    "sku": "XIA-1-0027",
+    "product_name": "Router Wi-Fi Xiaomi Mesh System AX3000",
+    "description": "Router Wi-Fi Xiaomi Mesh System AX3000, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 2490000,
+    "currency": "VND",
+    "stock_quantity": 96,
+    "status": "ACTIVE",
+    "attributes": {
+      "wifi": "Wi-Fi 6",
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 28,
+    "sku": "LOG-1-0028",
+    "product_name": "Webcam Logitech Brio 500",
+    "description": "Webcam Logitech Brio 500, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 10,
+      "brand_name": "Logitech",
+      "origin_country": "Thụy Sĩ"
+    },
+    "price": 3035000,
+    "currency": "VND",
+    "stock_quantity": 68,
+    "status": "ACTIVE",
+    "attributes": {
+      "resolution": "Full HD",
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "logitech"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 29,
+    "sku": "SAM-1-0029",
+    "product_name": "Smart TV Samsung Crystal UHD 50 inch",
+    "description": "Smart TV Samsung Crystal UHD 50 inch, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 1,
+      "brand_name": "Samsung",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 11810000,
+    "currency": "VND",
+    "stock_quantity": 34,
+    "status": "ACTIVE",
+    "attributes": {
+      "screen_inch": 55,
+      "resolution": "4K UHD",
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "samsung"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 30,
+    "sku": "LG-1-0030",
+    "product_name": "Smart TV LG UHD 43 inch",
+    "description": "Smart TV LG UHD 43 inch, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 8490000,
+    "currency": "VND",
+    "stock_quantity": 85,
+    "status": "ACTIVE",
+    "attributes": {
+      "screen_inch": 55,
+      "resolution": "4K UHD",
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 31,
+    "sku": "SON-1-0031",
+    "product_name": "Loa Bluetooth Sony SRS-XG300",
+    "description": "Loa Bluetooth Sony SRS-XG300, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 6,
+      "brand_name": "Sony",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 6080000,
+    "currency": "VND",
+    "stock_quantity": 51,
+    "status": "ACTIVE",
+    "attributes": {
+      "connection": "Bluetooth",
+      "water_resistant": true,
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "sony"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 32,
+    "sku": "CAN-1-0032",
+    "product_name": "Máy ảnh Canon EOS R8 Body",
+    "description": "Máy ảnh Canon EOS R8 Body, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 15,
+      "brand_name": "Canon",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 32495000,
+    "currency": "VND",
+    "stock_quantity": 43,
+    "status": "ACTIVE",
+    "attributes": {
+      "sensor": "CMOS",
+      "video": "4K",
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "canon"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 33,
+    "sku": "XIA-1-0033",
+    "product_name": "Router Wi-Fi Xiaomi Router BE3600",
+    "description": "Router Wi-Fi Xiaomi Router BE3600, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 1790000,
+    "currency": "VND",
+    "stock_quantity": 56,
+    "status": "ACTIVE",
+    "attributes": {
+      "wifi": "Wi-Fi 6",
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 34,
+    "sku": "LOG-1-0034",
+    "product_name": "Webcam Logitech StreamCam",
+    "description": "Webcam Logitech StreamCam, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 10,
+      "brand_name": "Logitech",
+      "origin_country": "Thụy Sĩ"
+    },
+    "price": 3542000,
+    "currency": "VND",
+    "stock_quantity": 72,
+    "status": "ACTIVE",
+    "attributes": {
+      "resolution": "Full HD",
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "logitech"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 35,
+    "sku": "SAM-1-0035",
+    "product_name": "Smart TV Samsung OLED 55 inch",
+    "description": "Smart TV Samsung OLED 55 inch, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 1,
+      "brand_name": "Samsung",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 25600000,
+    "currency": "VND",
+    "stock_quantity": 38,
+    "status": "ACTIVE",
+    "attributes": {
+      "screen_inch": 55,
+      "resolution": "4K UHD",
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "samsung"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 36,
+    "sku": "LG-1-0036",
+    "product_name": "Smart TV LG QNED 55 inch",
+    "description": "Smart TV LG QNED 55 inch, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 18990000,
+    "currency": "VND",
+    "stock_quantity": 93,
+    "status": "ACTIVE",
+    "attributes": {
+      "screen_inch": 55,
+      "resolution": "4K UHD",
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 37,
+    "sku": "SON-1-0037",
+    "product_name": "Loa Bluetooth Sony ULT FIELD 7",
+    "description": "Loa Bluetooth Sony ULT FIELD 7, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 6,
+      "brand_name": "Sony",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 9125000,
+    "currency": "VND",
+    "stock_quantity": 95,
+    "status": "ACTIVE",
+    "attributes": {
+      "connection": "Bluetooth",
+      "water_resistant": true,
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "sony"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 38,
+    "sku": "CAN-1-0038",
+    "product_name": "Máy ảnh Canon EOS R100 Kit",
+    "description": "Máy ảnh Canon EOS R100 Kit, sản phẩm mẫu thuộc nhóm điện tử & công nghệ.",
+    "category": {
+      "category_id": 1,
+      "category_name": "Điện tử & Công nghệ",
+      "slug": "dien-tu-cong-nghe"
+    },
+    "brand": {
+      "brand_id": 15,
+      "brand_name": "Canon",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 14765000,
+    "currency": "VND",
+    "stock_quantity": 108,
+    "status": "ACTIVE",
+    "attributes": {
+      "sensor": "CMOS",
+      "video": "4K",
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-tu-cong-nghe",
+      "canon"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 39,
+    "sku": "SAM-2-0039",
+    "product_name": "Điện thoại Samsung Galaxy A35 5G 128GB",
+    "description": "Điện thoại Samsung Galaxy A35 5G 128GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 1,
+      "brand_name": "Samsung",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 7870000,
+    "currency": "VND",
+    "stock_quantity": 71,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 256,
+      "network": "5G",
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "samsung"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 40,
+    "sku": "APP-2-0040",
+    "product_name": "Apple iPad iPad Gen 10 64GB",
+    "description": "Apple iPad iPad Gen 10 64GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 2,
+      "brand_name": "Apple",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 8990000,
+    "currency": "VND",
+    "stock_quantity": 65,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 128,
+      "connectivity": "Wi-Fi",
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "apple"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 41,
+    "sku": "XIA-2-0041",
+    "product_name": "Điện thoại Xiaomi Redmi Note 13 128GB",
+    "description": "Điện thoại Xiaomi Redmi Note 13 128GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 4557000,
+    "currency": "VND",
+    "stock_quantity": 41,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 256,
+      "network": "4G/5G",
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 42,
+    "sku": "ANK-2-0042",
+    "product_name": "Sạc nhanh Anker Nano 30W",
+    "description": "Sạc nhanh Anker Nano 30W, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 9,
+      "brand_name": "Anker",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 384000,
+    "currency": "VND",
+    "stock_quantity": 48,
+    "status": "ACTIVE",
+    "attributes": {
+      "power_w": 65,
+      "fast_charging": true,
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "anker"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 43,
+    "sku": "JBL-2-0043",
+    "product_name": "Tai nghe JBL Tune 520BT",
+    "description": "Tai nghe JBL Tune 520BT, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 16,
+      "brand_name": "JBL",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 890000,
+    "currency": "VND",
+    "stock_quantity": 22,
+    "status": "ACTIVE",
+    "attributes": {
+      "connection": "Bluetooth",
+      "microphone": true,
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "jbl"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 44,
+    "sku": "XIA-2-0044",
+    "product_name": "Đồng hồ Xiaomi Redmi Watch 4",
+    "description": "Đồng hồ Xiaomi Redmi Watch 4, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 2223000,
+    "currency": "VND",
+    "stock_quantity": 115,
+    "status": "ACTIVE",
+    "attributes": {
+      "water_resistant": true,
+      "battery_days": 10,
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 45,
+    "sku": "SAM-2-0045",
+    "product_name": "Điện thoại Samsung Galaxy A55 5G 256GB",
+    "description": "Điện thoại Samsung Galaxy A55 5G 256GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 1,
+      "brand_name": "Samsung",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 10825000,
+    "currency": "VND",
+    "stock_quantity": 118,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 256,
+      "network": "5G",
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "samsung"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 46,
+    "sku": "APP-2-0046",
+    "product_name": "Apple iPad iPad mini 128GB",
+    "description": "Apple iPad iPad mini 128GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 2,
+      "brand_name": "Apple",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 13990000,
+    "currency": "VND",
+    "stock_quantity": 55,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 128,
+      "connectivity": "Wi-Fi",
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "apple"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 47,
+    "sku": "XIA-2-0047",
+    "product_name": "Điện thoại Xiaomi Redmi Note 13 Pro 256GB",
+    "description": "Điện thoại Xiaomi Redmi Note 13 Pro 256GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 7095000,
+    "currency": "VND",
+    "stock_quantity": 101,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 256,
+      "network": "4G/5G",
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 48,
+    "sku": "ANK-2-0048",
+    "product_name": "Sạc nhanh Anker Nano II 65W",
+    "description": "Sạc nhanh Anker Nano II 65W, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 9,
+      "brand_name": "Anker",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 877000,
+    "currency": "VND",
+    "stock_quantity": 71,
+    "status": "ACTIVE",
+    "attributes": {
+      "power_w": 65,
+      "fast_charging": true,
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "anker"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 49,
+    "sku": "JBL-2-0049",
+    "product_name": "Tai nghe JBL Wave Buds",
+    "description": "Tai nghe JBL Wave Buds, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 16,
+      "brand_name": "JBL",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 1190000,
+    "currency": "VND",
+    "stock_quantity": 52,
+    "status": "ACTIVE",
+    "attributes": {
+      "connection": "Bluetooth",
+      "microphone": true,
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "jbl"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 50,
+    "sku": "XIA-2-0050",
+    "product_name": "Đồng hồ Xiaomi Watch S3",
+    "description": "Đồng hồ Xiaomi Watch S3, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 2933000,
+    "currency": "VND",
+    "stock_quantity": 82,
+    "status": "ACTIVE",
+    "attributes": {
+      "water_resistant": true,
+      "battery_days": 10,
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 51,
+    "sku": "SAM-2-0051",
+    "product_name": "Điện thoại Samsung Galaxy S24 FE 256GB",
+    "description": "Điện thoại Samsung Galaxy S24 FE 256GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 1,
+      "brand_name": "Samsung",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 14765000,
+    "currency": "VND",
+    "stock_quantity": 93,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 256,
+      "network": "5G",
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "samsung"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 52,
+    "sku": "APP-2-0052",
+    "product_name": "Apple iPad iPad Air M2 128GB",
+    "description": "Apple iPad iPad Air M2 128GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 2,
+      "brand_name": "Apple",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 15990000,
+    "currency": "VND",
+    "stock_quantity": 60,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 128,
+      "connectivity": "Wi-Fi",
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "apple"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 53,
+    "sku": "XIA-2-0053",
+    "product_name": "Điện thoại Xiaomi Redmi Redmi 13 128GB",
+    "description": "Điện thoại Xiaomi Redmi Redmi 13 128GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 3339000,
+    "currency": "VND",
+    "stock_quantity": 81,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 256,
+      "network": "4G/5G",
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 54,
+    "sku": "ANK-2-0054",
+    "product_name": "Sạc nhanh Anker Prime 100W",
+    "description": "Sạc nhanh Anker Prime 100W, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 9,
+      "brand_name": "Anker",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 2453000,
+    "currency": "VND",
+    "stock_quantity": 33,
+    "status": "ACTIVE",
+    "attributes": {
+      "power_w": 65,
+      "fast_charging": true,
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "anker"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 55,
+    "sku": "JBL-2-0055",
+    "product_name": "Tai nghe JBL Tune Flex",
+    "description": "Tai nghe JBL Tune Flex, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 16,
+      "brand_name": "JBL",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 1790000,
+    "currency": "VND",
+    "stock_quantity": 103,
+    "status": "ACTIVE",
+    "attributes": {
+      "connection": "Bluetooth",
+      "microphone": true,
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "jbl"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 56,
+    "sku": "XIA-2-0056",
+    "product_name": "Đồng hồ Xiaomi Watch 2 Lite",
+    "description": "Đồng hồ Xiaomi Watch 2 Lite, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 1309000,
+    "currency": "VND",
+    "stock_quantity": 86,
+    "status": "ACTIVE",
+    "attributes": {
+      "water_resistant": true,
+      "battery_days": 10,
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 57,
+    "sku": "SAM-2-0057",
+    "product_name": "Điện thoại Samsung Galaxy S24 Ultra 256GB",
+    "description": "Điện thoại Samsung Galaxy S24 Ultra 256GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 1,
+      "brand_name": "Samsung",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 28555000,
+    "currency": "VND",
+    "stock_quantity": 75,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 256,
+      "network": "5G",
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "samsung"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 58,
+    "sku": "APP-2-0058",
+    "product_name": "Apple iPad iPad Pro M4 256GB",
+    "description": "Apple iPad iPad Pro M4 256GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 2,
+      "brand_name": "Apple",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 28990000,
+    "currency": "VND",
+    "stock_quantity": 40,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 128,
+      "connectivity": "Wi-Fi",
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "apple"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 59,
+    "sku": "XIA-2-0059",
+    "product_name": "Điện thoại Xiaomi Redmi Poco X6 256GB",
+    "description": "Điện thoại Xiaomi Redmi Poco X6 256GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 7399000,
+    "currency": "VND",
+    "stock_quantity": 79,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 256,
+      "network": "4G/5G",
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 60,
+    "sku": "ANK-2-0060",
+    "product_name": "Sạc nhanh Anker PowerPort III 20W",
+    "description": "Sạc nhanh Anker PowerPort III 20W, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 9,
+      "brand_name": "Anker",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 443000,
+    "currency": "VND",
+    "stock_quantity": 33,
+    "status": "ACTIVE",
+    "attributes": {
+      "power_w": 65,
+      "fast_charging": true,
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "anker"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 61,
+    "sku": "JBL-2-0061",
+    "product_name": "Tai nghe JBL Live Pro 2",
+    "description": "Tai nghe JBL Live Pro 2, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 16,
+      "brand_name": "JBL",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 2990000,
+    "currency": "VND",
+    "stock_quantity": 68,
+    "status": "ACTIVE",
+    "attributes": {
+      "connection": "Bluetooth",
+      "microphone": true,
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "jbl"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 62,
+    "sku": "XIA-2-0062",
+    "product_name": "Đồng hồ Xiaomi Mi Watch 5 Active",
+    "description": "Đồng hồ Xiaomi Mi Watch 5 Active, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 1005000,
+    "currency": "VND",
+    "stock_quantity": 114,
+    "status": "ACTIVE",
+    "attributes": {
+      "water_resistant": true,
+      "battery_days": 10,
+      "color": "Xanh"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 63,
+    "sku": "SAM-2-0063",
+    "product_name": "Điện thoại Samsung Galaxy Z Flip6 256GB",
+    "description": "Điện thoại Samsung Galaxy Z Flip6 256GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 1,
+      "brand_name": "Samsung",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 22645000,
+    "currency": "VND",
+    "stock_quantity": 32,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 256,
+      "network": "5G",
+      "color": "Đen"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "samsung"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 64,
+    "sku": "APP-2-0064",
+    "product_name": "Apple iPad iPad Gen 10 256GB",
+    "description": "Apple iPad iPad Gen 10 256GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 2,
+      "brand_name": "Apple",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 11990000,
+    "currency": "VND",
+    "stock_quantity": 103,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 128,
+      "connectivity": "Wi-Fi",
+      "color": "Bạc"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "apple"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 65,
+    "sku": "XIA-2-0065",
+    "product_name": "Điện thoại Xiaomi Redmi Poco F6 512GB",
+    "description": "Điện thoại Xiaomi Redmi Poco F6 512GB, sản phẩm mẫu thuộc nhóm điện thoại & phụ kiện.",
+    "category": {
+      "category_id": 2,
+      "category_name": "Điện thoại & Phụ kiện",
+      "slug": "dien-thoai-phu-kien"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 10140000,
+    "currency": "VND",
+    "stock_quantity": 82,
+    "status": "ACTIVE",
+    "attributes": {
+      "storage_gb": 256,
+      "network": "4G/5G",
+      "color": "Trắng"
+    },
+    "tags": [
+      "dien-thoai-phu-kien",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 66,
+    "sku": "LG-3-0066",
+    "product_name": "Máy giặt LG Inverter 9kg cửa trước",
+    "description": "Máy giặt LG Inverter 9kg cửa trước, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 8855000,
+    "currency": "VND",
+    "stock_quantity": 56,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_kg": 9,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 67,
+    "sku": "PAN-3-0067",
+    "product_name": "Tủ lạnh Panasonic 2 cánh 234L",
+    "description": "Tủ lạnh Panasonic 2 cánh 234L, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 14,
+      "brand_name": "Panasonic",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 6990000,
+    "currency": "VND",
+    "stock_quantity": 38,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 322,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "panasonic"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 68,
+    "sku": "XIA-3-0068",
+    "product_name": "Máy lọc không khí Xiaomi 4 Lite",
+    "description": "Máy lọc không khí Xiaomi 4 Lite, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 2527000,
+    "currency": "VND",
+    "stock_quantity": 90,
+    "status": "ACTIVE",
+    "attributes": {
+      "area_m2": 48,
+      "filter": "HEPA"
+    },
+    "tags": [
+      "do-gia-dung",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 69,
+    "sku": "PHI-3-0069",
+    "product_name": "Máy hút bụi Philips PowerPro Compact",
+    "description": "Máy hút bụi Philips PowerPro Compact, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 7,
+      "brand_name": "Philips",
+      "origin_country": "Hà Lan"
+    },
+    "price": 1862000,
+    "currency": "VND",
+    "stock_quantity": 12,
+    "status": "ACTIVE",
+    "attributes": {
+      "power_w": 1800,
+      "filter": "HEPA"
+    },
+    "tags": [
+      "do-gia-dung",
+      "philips"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 70,
+    "sku": "LOC-3-0070",
+    "product_name": "Quạt và thiết bị làm mát LocknLock Quạt tuần hoàn 12 inch",
+    "description": "Quạt và thiết bị làm mát LocknLock Quạt tuần hoàn 12 inch, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 790000,
+    "currency": "VND",
+    "stock_quantity": 17,
+    "status": "ACTIVE",
+    "attributes": {
+      "speed_levels": 3
+    },
+    "tags": [
+      "do-gia-dung",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 71,
+    "sku": "LG-3-0071",
+    "product_name": "Máy hút ẩm LG Dual Inverter 16L",
+    "description": "Máy hút ẩm LG Dual Inverter 16L, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 6080000,
+    "currency": "VND",
+    "stock_quantity": 62,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l_day": 16,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 72,
+    "sku": "LG-3-0072",
+    "product_name": "Máy giặt LG Inverter 10kg cửa trước",
+    "description": "Máy giặt LG Inverter 10kg cửa trước, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 10825000,
+    "currency": "VND",
+    "stock_quantity": 101,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_kg": 9,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 73,
+    "sku": "PAN-3-0073",
+    "product_name": "Tủ lạnh Panasonic Inverter 322L",
+    "description": "Tủ lạnh Panasonic Inverter 322L, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 14,
+      "brand_name": "Panasonic",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 11990000,
+    "currency": "VND",
+    "stock_quantity": 49,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 322,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "panasonic"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 74,
+    "sku": "XIA-3-0074",
+    "product_name": "Máy lọc không khí Xiaomi 4 Pro",
+    "description": "Máy lọc không khí Xiaomi 4 Pro, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 4050000,
+    "currency": "VND",
+    "stock_quantity": 63,
+    "status": "ACTIVE",
+    "attributes": {
+      "area_m2": 48,
+      "filter": "HEPA"
+    },
+    "tags": [
+      "do-gia-dung",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 75,
+    "sku": "PHI-3-0075",
+    "product_name": "Máy hút bụi Philips Series 2000",
+    "description": "Máy hút bụi Philips Series 2000, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 7,
+      "brand_name": "Philips",
+      "origin_country": "Hà Lan"
+    },
+    "price": 3241000,
+    "currency": "VND",
+    "stock_quantity": 28,
+    "status": "ACTIVE",
+    "attributes": {
+      "power_w": 1800,
+      "filter": "HEPA"
+    },
+    "tags": [
+      "do-gia-dung",
+      "philips"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 76,
+    "sku": "LOC-3-0076",
+    "product_name": "Quạt và thiết bị làm mát LocknLock Quạt đứng 16 inch",
+    "description": "Quạt và thiết bị làm mát LocknLock Quạt đứng 16 inch, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 1190000,
+    "currency": "VND",
+    "stock_quantity": 28,
+    "status": "ACTIVE",
+    "attributes": {
+      "speed_levels": 3
+    },
+    "tags": [
+      "do-gia-dung",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 77,
+    "sku": "LG-3-0077",
+    "product_name": "Máy hút ẩm LG Dual Inverter 19L",
+    "description": "Máy hút ẩm LG Dual Inverter 19L, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 8110000,
+    "currency": "VND",
+    "stock_quantity": 75,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l_day": 16,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 78,
+    "sku": "LG-3-0078",
+    "product_name": "Máy giặt LG Cửa trên 12kg",
+    "description": "Máy giặt LG Cửa trên 12kg, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 7870000,
+    "currency": "VND",
+    "stock_quantity": 43,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_kg": 9,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 79,
+    "sku": "PAN-3-0079",
+    "product_name": "Tủ lạnh Panasonic Multi Door 495L",
+    "description": "Tủ lạnh Panasonic Multi Door 495L, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 14,
+      "brand_name": "Panasonic",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 24990000,
+    "currency": "VND",
+    "stock_quantity": 102,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 322,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "panasonic"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 80,
+    "sku": "XIA-3-0080",
+    "product_name": "Máy lọc không khí Xiaomi Elite",
+    "description": "Máy lọc không khí Xiaomi Elite, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 6080000,
+    "currency": "VND",
+    "stock_quantity": 91,
+    "status": "ACTIVE",
+    "attributes": {
+      "area_m2": 48,
+      "filter": "HEPA"
+    },
+    "tags": [
+      "do-gia-dung",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 81,
+    "sku": "PHI-3-0081",
+    "product_name": "Máy hút bụi Philips SpeedPro Aqua",
+    "description": "Máy hút bụi Philips SpeedPro Aqua, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 7,
+      "brand_name": "Philips",
+      "origin_country": "Hà Lan"
+    },
+    "price": 6885000,
+    "currency": "VND",
+    "stock_quantity": 55,
+    "status": "ACTIVE",
+    "attributes": {
+      "power_w": 1800,
+      "filter": "HEPA"
+    },
+    "tags": [
+      "do-gia-dung",
+      "philips"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 82,
+    "sku": "LOC-3-0082",
+    "product_name": "Quạt và thiết bị làm mát LocknLock Quạt tích điện mini",
+    "description": "Quạt và thiết bị làm mát LocknLock Quạt tích điện mini, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 490000,
+    "currency": "VND",
+    "stock_quantity": 38,
+    "status": "ACTIVE",
+    "attributes": {
+      "speed_levels": 3
+    },
+    "tags": [
+      "do-gia-dung",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 83,
+    "sku": "LG-3-0083",
+    "product_name": "Máy hút ẩm LG PuriCare 20L",
+    "description": "Máy hút ẩm LG PuriCare 20L, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 9125000,
+    "currency": "VND",
+    "stock_quantity": 28,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l_day": 16,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 84,
+    "sku": "LG-3-0084",
+    "product_name": "Máy giặt LG AI DD 9kg",
+    "description": "Máy giặt LG AI DD 9kg, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 11810000,
+    "currency": "VND",
+    "stock_quantity": 73,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_kg": 9,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 85,
+    "sku": "PAN-3-0085",
+    "product_name": "Tủ lạnh Panasonic Ngăn đá dưới 366L",
+    "description": "Tủ lạnh Panasonic Ngăn đá dưới 366L, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 14,
+      "brand_name": "Panasonic",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 17990000,
+    "currency": "VND",
+    "stock_quantity": 77,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 322,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "panasonic"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 86,
+    "sku": "XIA-3-0086",
+    "product_name": "Máy lọc không khí Xiaomi Smart Air Purifier 4",
+    "description": "Máy lọc không khí Xiaomi Smart Air Purifier 4, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 3339000,
+    "currency": "VND",
+    "stock_quantity": 21,
+    "status": "ACTIVE",
+    "attributes": {
+      "area_m2": 48,
+      "filter": "HEPA"
+    },
+    "tags": [
+      "do-gia-dung",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 87,
+    "sku": "PHI-3-0087",
+    "product_name": "Máy hút bụi Philips MiniVac",
+    "description": "Máy hút bụi Philips MiniVac, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 7,
+      "brand_name": "Philips",
+      "origin_country": "Hà Lan"
+    },
+    "price": 975000,
+    "currency": "VND",
+    "stock_quantity": 98,
+    "status": "ACTIVE",
+    "attributes": {
+      "power_w": 1800,
+      "filter": "HEPA"
+    },
+    "tags": [
+      "do-gia-dung",
+      "philips"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 88,
+    "sku": "LOC-3-0088",
+    "product_name": "Quạt và thiết bị làm mát LocknLock Quạt không cánh",
+    "description": "Quạt và thiết bị làm mát LocknLock Quạt không cánh, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 2990000,
+    "currency": "VND",
+    "stock_quantity": 59,
+    "status": "ACTIVE",
+    "attributes": {
+      "speed_levels": 3
+    },
+    "tags": [
+      "do-gia-dung",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 89,
+    "sku": "LG-3-0089",
+    "product_name": "Máy hút ẩm LG Smart Dehumidifier 13L",
+    "description": "Máy hút ẩm LG Smart Dehumidifier 13L, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 5065000,
+    "currency": "VND",
+    "stock_quantity": 78,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l_day": 16,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 90,
+    "sku": "LG-3-0090",
+    "product_name": "Máy giặt LG Máy giặt sấy 10.5kg",
+    "description": "Máy giặt LG Máy giặt sấy 10.5kg, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 8,
+      "brand_name": "LG",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 16735000,
+    "currency": "VND",
+    "stock_quantity": 32,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_kg": 9,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "lg"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 91,
+    "sku": "PAN-3-0091",
+    "product_name": "Tủ lạnh Panasonic Inverter 290L",
+    "description": "Tủ lạnh Panasonic Inverter 290L, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 14,
+      "brand_name": "Panasonic",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 9990000,
+    "currency": "VND",
+    "stock_quantity": 62,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 322,
+      "inverter": true
+    },
+    "tags": [
+      "do-gia-dung",
+      "panasonic"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 92,
+    "sku": "XIA-3-0092",
+    "product_name": "Máy lọc không khí Xiaomi Compact",
+    "description": "Máy lọc không khí Xiaomi Compact, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 1614000,
+    "currency": "VND",
+    "stock_quantity": 15,
+    "status": "ACTIVE",
+    "attributes": {
+      "area_m2": 48,
+      "filter": "HEPA"
+    },
+    "tags": [
+      "do-gia-dung",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 93,
+    "sku": "PHI-3-0093",
+    "product_name": "Máy hút bụi Philips PowerPro Active",
+    "description": "Máy hút bụi Philips PowerPro Active, sản phẩm mẫu thuộc nhóm đồ gia dụng.",
+    "category": {
+      "category_id": 3,
+      "category_name": "Đồ gia dụng",
+      "slug": "do-gia-dung"
+    },
+    "brand": {
+      "brand_id": 7,
+      "brand_name": "Philips",
+      "origin_country": "Hà Lan"
+    },
+    "price": 3930000,
+    "currency": "VND",
+    "stock_quantity": 78,
+    "status": "ACTIVE",
+    "attributes": {
+      "power_w": 1800,
+      "filter": "HEPA"
+    },
+    "tags": [
+      "do-gia-dung",
+      "philips"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 94,
+    "sku": "ADI-4-0094",
+    "product_name": "Áo thun Adidas Essentials Logo Đen",
+    "description": "Áo thun Adidas Essentials Logo Đen, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 4,
+      "brand_name": "Adidas",
+      "origin_country": "Đức"
+    },
+    "price": 581000,
+    "currency": "VND",
+    "stock_quantity": 114,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "S",
+      "material": "Polyester/Cotton",
+      "color": "Đen"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "adidas"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 95,
+    "sku": "NIK-4-0095",
+    "product_name": "Giày Nike Air Max SC",
+    "description": "Giày Nike Air Max SC, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 11,
+      "brand_name": "Nike",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 1890000,
+    "currency": "VND",
+    "stock_quantity": 48,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "M",
+      "material": "Mesh",
+      "color": "Trắng"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "nike"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 96,
+    "sku": "PUM-4-0096",
+    "product_name": "Giày Puma Smash v2",
+    "description": "Giày Puma Smash v2, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 12,
+      "brand_name": "Puma",
+      "origin_country": "Đức"
+    },
+    "price": 1411000,
+    "currency": "VND",
+    "stock_quantity": 46,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "L",
+      "material": "Synthetic",
+      "color": "Xanh navy"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "puma"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 97,
+    "sku": "UNI-4-0097",
+    "product_name": "Áo khoác Uniqlo Blocktech Parka",
+    "description": "Áo khoác Uniqlo Blocktech Parka, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 13,
+      "brand_name": "Uniqlo",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 1468000,
+    "currency": "VND",
+    "stock_quantity": 57,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "XL",
+      "material": "Polyester",
+      "color": "Xám"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "uniqlo"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 98,
+    "sku": "ADI-4-0098",
+    "product_name": "Ba lô Adidas Classic Badge of Sport",
+    "description": "Ba lô Adidas Classic Badge of Sport, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 4,
+      "brand_name": "Adidas",
+      "origin_country": "Đức"
+    },
+    "price": 890000,
+    "currency": "VND",
+    "stock_quantity": 22,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 22,
+      "material": "Polyester",
+      "size": "S",
+      "color": "Đen"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "adidas"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 99,
+    "sku": "NIK-4-0099",
+    "product_name": "Phụ kiện Nike Mũ lưỡi trai Heritage",
+    "description": "Phụ kiện Nike Mũ lưỡi trai Heritage, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 11,
+      "brand_name": "Nike",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 599000,
+    "currency": "VND",
+    "stock_quantity": 94,
+    "status": "ACTIVE",
+    "attributes": {
+      "material": "Polyester",
+      "size": "M",
+      "color": "Trắng"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "nike"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 100,
+    "sku": "ADI-4-0100",
+    "product_name": "Áo thun Adidas Training Aeroready Xanh",
+    "description": "Áo thun Adidas Training Aeroready Xanh, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 4,
+      "brand_name": "Adidas",
+      "origin_country": "Đức"
+    },
+    "price": 680000,
+    "currency": "VND",
+    "stock_quantity": 63,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "L",
+      "material": "Polyester/Cotton",
+      "color": "Xanh navy"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "adidas"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 101,
+    "sku": "NIK-4-0101",
+    "product_name": "Giày Nike Revolution 7",
+    "description": "Giày Nike Revolution 7, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 11,
+      "brand_name": "Nike",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 1690000,
+    "currency": "VND",
+    "stock_quantity": 81,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "XL",
+      "material": "Mesh",
+      "color": "Xám"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "nike"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 102,
+    "sku": "PUM-4-0102",
+    "product_name": "Giày Puma Caven 2.0",
+    "description": "Giày Puma Caven 2.0, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 12,
+      "brand_name": "Puma",
+      "origin_country": "Đức"
+    },
+    "price": 1817000,
+    "currency": "VND",
+    "stock_quantity": 77,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "S",
+      "material": "Synthetic",
+      "color": "Đen"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "puma"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 103,
+    "sku": "UNI-4-0103",
+    "product_name": "Áo khoác Uniqlo UV Protection Hoodie",
+    "description": "Áo khoác Uniqlo UV Protection Hoodie, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 13,
+      "brand_name": "Uniqlo",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 778000,
+    "currency": "VND",
+    "stock_quantity": 114,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "M",
+      "material": "Polyester",
+      "color": "Trắng"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "uniqlo"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 104,
+    "sku": "ADI-4-0104",
+    "product_name": "Ba lô Adidas Power Backpack",
+    "description": "Ba lô Adidas Power Backpack, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 4,
+      "brand_name": "Adidas",
+      "origin_country": "Đức"
+    },
+    "price": 1190000,
+    "currency": "VND",
+    "stock_quantity": 51,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 22,
+      "material": "Polyester",
+      "size": "L",
+      "color": "Xanh navy"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "adidas"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 105,
+    "sku": "NIK-4-0105",
+    "product_name": "Phụ kiện Nike Túi đeo chéo Heritage",
+    "description": "Phụ kiện Nike Túi đeo chéo Heritage, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 11,
+      "brand_name": "Nike",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 802000,
+    "currency": "VND",
+    "stock_quantity": 96,
+    "status": "ACTIVE",
+    "attributes": {
+      "material": "Polyester",
+      "size": "XL",
+      "color": "Xám"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "nike"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 106,
+    "sku": "ADI-4-0106",
+    "product_name": "Áo thun Adidas Own The Run Trắng",
+    "description": "Áo thun Adidas Own The Run Trắng, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 4,
+      "brand_name": "Adidas",
+      "origin_country": "Đức"
+    },
+    "price": 778000,
+    "currency": "VND",
+    "stock_quantity": 106,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "S",
+      "material": "Polyester/Cotton",
+      "color": "Đen"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "adidas"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 107,
+    "sku": "NIK-4-0107",
+    "product_name": "Giày Nike Downshifter 13",
+    "description": "Giày Nike Downshifter 13, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 11,
+      "brand_name": "Nike",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 1790000,
+    "currency": "VND",
+    "stock_quantity": 114,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "M",
+      "material": "Mesh",
+      "color": "Trắng"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "nike"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 108,
+    "sku": "PUM-4-0108",
+    "product_name": "Giày Puma Softride Enzo",
+    "description": "Giày Puma Softride Enzo, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 12,
+      "brand_name": "Puma",
+      "origin_country": "Đức"
+    },
+    "price": 1715000,
+    "currency": "VND",
+    "stock_quantity": 52,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "L",
+      "material": "Synthetic",
+      "color": "Xanh navy"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "puma"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 109,
+    "sku": "UNI-4-0109",
+    "product_name": "Áo khoác Uniqlo Ultra Light Down",
+    "description": "Áo khoác Uniqlo Ultra Light Down, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 13,
+      "brand_name": "Uniqlo",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 1960000,
+    "currency": "VND",
+    "stock_quantity": 58,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "XL",
+      "material": "Polyester",
+      "color": "Xám"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "uniqlo"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 110,
+    "sku": "ADI-4-0110",
+    "product_name": "Ba lô Adidas Linear Classic",
+    "description": "Ba lô Adidas Linear Classic, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 4,
+      "brand_name": "Adidas",
+      "origin_country": "Đức"
+    },
+    "price": 790000,
+    "currency": "VND",
+    "stock_quantity": 7,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 22,
+      "material": "Polyester",
+      "size": "S",
+      "color": "Đen"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "adidas"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 111,
+    "sku": "NIK-4-0111",
+    "product_name": "Phụ kiện Nike Tất thể thao 3 đôi",
+    "description": "Phụ kiện Nike Tất thể thao 3 đôi, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 11,
+      "brand_name": "Nike",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 355000,
+    "currency": "VND",
+    "stock_quantity": 56,
+    "status": "ACTIVE",
+    "attributes": {
+      "material": "Polyester",
+      "size": "M",
+      "color": "Trắng"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "nike"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 112,
+    "sku": "ADI-4-0112",
+    "product_name": "Áo thun Adidas Essentials 3-Stripes Xám",
+    "description": "Áo thun Adidas Essentials 3-Stripes Xám, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 4,
+      "brand_name": "Adidas",
+      "origin_country": "Đức"
+    },
+    "price": 640000,
+    "currency": "VND",
+    "stock_quantity": 32,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "L",
+      "material": "Polyester/Cotton",
+      "color": "Xanh navy"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "adidas"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 113,
+    "sku": "NIK-4-0113",
+    "product_name": "Giày Nike Court Vision Low",
+    "description": "Giày Nike Court Vision Low, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 11,
+      "brand_name": "Nike",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 2090000,
+    "currency": "VND",
+    "stock_quantity": 60,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "XL",
+      "material": "Mesh",
+      "color": "Xám"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "nike"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 114,
+    "sku": "PUM-4-0114",
+    "product_name": "Giày Puma Flyer Runner",
+    "description": "Giày Puma Flyer Runner, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 12,
+      "brand_name": "Puma",
+      "origin_country": "Đức"
+    },
+    "price": 1512000,
+    "currency": "VND",
+    "stock_quantity": 92,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "S",
+      "material": "Synthetic",
+      "color": "Đen"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "puma"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 115,
+    "sku": "UNI-4-0115",
+    "product_name": "Áo khoác Uniqlo Dry Stretch Hoodie",
+    "description": "Áo khoác Uniqlo Dry Stretch Hoodie, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 13,
+      "brand_name": "Uniqlo",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 975000,
+    "currency": "VND",
+    "stock_quantity": 25,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "M",
+      "material": "Polyester",
+      "color": "Trắng"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "uniqlo"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 116,
+    "sku": "ADI-4-0116",
+    "product_name": "Ba lô Adidas Tiro League",
+    "description": "Ba lô Adidas Tiro League, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 4,
+      "brand_name": "Adidas",
+      "origin_country": "Đức"
+    },
+    "price": 990000,
+    "currency": "VND",
+    "stock_quantity": 22,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 22,
+      "material": "Polyester",
+      "size": "L",
+      "color": "Xanh navy"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "adidas"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 117,
+    "sku": "NIK-4-0117",
+    "product_name": "Phụ kiện Nike Bình nước Hypercharge",
+    "description": "Phụ kiện Nike Bình nước Hypercharge, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 11,
+      "brand_name": "Nike",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 497000,
+    "currency": "VND",
+    "stock_quantity": 40,
+    "status": "ACTIVE",
+    "attributes": {
+      "material": "Polyester",
+      "size": "XL",
+      "color": "Xám"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "nike"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 118,
+    "sku": "ADI-4-0118",
+    "product_name": "Áo thun Adidas Fifa World Cup Đỏ",
+    "description": "Áo thun Adidas Fifa World Cup Đỏ, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 4,
+      "brand_name": "Adidas",
+      "origin_country": "Đức"
+    },
+    "price": 877000,
+    "currency": "VND",
+    "stock_quantity": 58,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "S",
+      "material": "Polyester/Cotton",
+      "color": "Đen"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "adidas"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 119,
+    "sku": "NIK-4-0119",
+    "product_name": "Giày Nike Pegasus 40",
+    "description": "Giày Nike Pegasus 40, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 11,
+      "brand_name": "Nike",
+      "origin_country": "Hoa Kỳ"
+    },
+    "price": 3290000,
+    "currency": "VND",
+    "stock_quantity": 17,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "M",
+      "material": "Mesh",
+      "color": "Trắng"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "nike"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 120,
+    "sku": "PUM-4-0120",
+    "product_name": "Giày Puma BMW Motorsport",
+    "description": "Giày Puma BMW Motorsport, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 12,
+      "brand_name": "Puma",
+      "origin_country": "Đức"
+    },
+    "price": 2527000,
+    "currency": "VND",
+    "stock_quantity": 41,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "L",
+      "material": "Synthetic",
+      "color": "Xanh navy"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "puma"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 121,
+    "sku": "UNI-4-0121",
+    "product_name": "Áo khoác Uniqlo Windproof Jacket",
+    "description": "Áo khoác Uniqlo Windproof Jacket, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 13,
+      "brand_name": "Uniqlo",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 1271000,
+    "currency": "VND",
+    "stock_quantity": 103,
+    "status": "ACTIVE",
+    "attributes": {
+      "size": "XL",
+      "material": "Polyester",
+      "color": "Xám"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "uniqlo"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 122,
+    "sku": "ADI-4-0122",
+    "product_name": "Ba lô Adidas Adicolor Archive",
+    "description": "Ba lô Adidas Adicolor Archive, sản phẩm mẫu thuộc nhóm thời trang & phụ kiện.",
+    "category": {
+      "category_id": 4,
+      "category_name": "Thời trang & Phụ kiện",
+      "slug": "thoi-trang-phu-kien"
+    },
+    "brand": {
+      "brand_id": 4,
+      "brand_name": "Adidas",
+      "origin_country": "Đức"
+    },
+    "price": 1390000,
+    "currency": "VND",
+    "stock_quantity": 86,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 22,
+      "material": "Polyester",
+      "size": "S",
+      "color": "Đen"
+    },
+    "tags": [
+      "thoi-trang-phu-kien",
+      "adidas"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 123,
+    "sku": "LOC-5-0123",
+    "product_name": "Nồi chiên không dầu LocknLock EJF357 5.2L",
+    "description": "Nồi chiên không dầu LocknLock EJF357 5.2L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 2256000,
+    "currency": "VND",
+    "stock_quantity": 20,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 5.2,
+      "power_w": 1500
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 124,
+    "sku": "PHI-5-0124",
+    "product_name": "Nồi cơm điện Philips HD3119 1.8L",
+    "description": "Nồi cơm điện Philips HD3119 1.8L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 7,
+      "brand_name": "Philips",
+      "origin_country": "Hà Lan"
+    },
+    "price": 990000,
+    "currency": "VND",
+    "stock_quantity": 53,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.8,
+      "nonstick": true
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "philips"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 125,
+    "sku": "PAN-5-0125",
+    "product_name": "Ấm siêu tốc Panasonic NC-K301 1.7L",
+    "description": "Ấm siêu tốc Panasonic NC-K301 1.7L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 14,
+      "brand_name": "Panasonic",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 599000,
+    "currency": "VND",
+    "stock_quantity": 28,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.7,
+      "auto_shutoff": true
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "panasonic"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 126,
+    "sku": "LOC-5-0126",
+    "product_name": "Hộp đựng thực phẩm LocknLock Glass 630ml",
+    "description": "Hộp đựng thực phẩm LocknLock Glass 630ml, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 158000,
+    "currency": "VND",
+    "stock_quantity": 67,
+    "status": "ACTIVE",
+    "attributes": {
+      "material": "Nhựa/Borosilicate"
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 127,
+    "sku": "XIA-5-0127",
+    "product_name": "Máy xay sinh tố Xiaomi Smart Blender 1.6L",
+    "description": "Máy xay sinh tố Xiaomi Smart Blender 1.6L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 1690000,
+    "currency": "VND",
+    "stock_quantity": 41,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.5,
+      "power_w": 600
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 128,
+    "sku": "ANK-5-0128",
+    "product_name": "Phụ kiện nhà bếp Anker Cân điện tử bếp 5kg",
+    "description": "Phụ kiện nhà bếp Anker Cân điện tử bếp 5kg, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 9,
+      "brand_name": "Anker",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 396000,
+    "currency": "VND",
+    "stock_quantity": 31,
+    "status": "ACTIVE",
+    "attributes": {
+      "material": "Nhựa/Thép không gỉ"
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "anker"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 129,
+    "sku": "LOC-5-0129",
+    "product_name": "Nồi chiên không dầu LocknLock EJF376 7.2L",
+    "description": "Nồi chiên không dầu LocknLock EJF376 7.2L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 3241000,
+    "currency": "VND",
+    "stock_quantity": 113,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 5.2,
+      "power_w": 1500
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 130,
+    "sku": "PHI-5-0130",
+    "product_name": "Nồi cơm điện Philips HD3130 1.8L",
+    "description": "Nồi cơm điện Philips HD3130 1.8L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 7,
+      "brand_name": "Philips",
+      "origin_country": "Hà Lan"
+    },
+    "price": 1390000,
+    "currency": "VND",
+    "stock_quantity": 116,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.8,
+      "nonstick": true
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "philips"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 131,
+    "sku": "PAN-5-0131",
+    "product_name": "Ấm siêu tốc Panasonic NC-K101 1.7L",
+    "description": "Ấm siêu tốc Panasonic NC-K101 1.7L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 14,
+      "brand_name": "Panasonic",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 497000,
+    "currency": "VND",
+    "stock_quantity": 64,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.7,
+      "auto_shutoff": true
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "panasonic"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 132,
+    "sku": "LOC-5-0132",
+    "product_name": "Hộp đựng thực phẩm LocknLock Bisfree 1.2L",
+    "description": "Hộp đựng thực phẩm LocknLock Bisfree 1.2L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 187000,
+    "currency": "VND",
+    "stock_quantity": 94,
+    "status": "ACTIVE",
+    "attributes": {
+      "material": "Nhựa/Borosilicate"
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 133,
+    "sku": "XIA-5-0133",
+    "product_name": "Máy xay sinh tố Xiaomi Portable Blender 300ml",
+    "description": "Máy xay sinh tố Xiaomi Portable Blender 300ml, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 590000,
+    "currency": "VND",
+    "stock_quantity": 35,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.5,
+      "power_w": 600
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 134,
+    "sku": "ANK-5-0134",
+    "product_name": "Phụ kiện nhà bếp Anker Máy hút chân không mini",
+    "description": "Phụ kiện nhà bếp Anker Máy hút chân không mini, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 9,
+      "brand_name": "Anker",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 903000,
+    "currency": "VND",
+    "stock_quantity": 26,
+    "status": "ACTIVE",
+    "attributes": {
+      "material": "Nhựa/Thép không gỉ"
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "anker"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 135,
+    "sku": "LOC-5-0135",
+    "product_name": "Nồi chiên không dầu LocknLock EJF137 3.5L",
+    "description": "Nồi chiên không dầu LocknLock EJF137 3.5L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 1566000,
+    "currency": "VND",
+    "stock_quantity": 100,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 5.2,
+      "power_w": 1500
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 136,
+    "sku": "PHI-5-0136",
+    "product_name": "Nồi cơm điện Philips HD4515 1.8L",
+    "description": "Nồi cơm điện Philips HD4515 1.8L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 7,
+      "brand_name": "Philips",
+      "origin_country": "Hà Lan"
+    },
+    "price": 1590000,
+    "currency": "VND",
+    "stock_quantity": 56,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.8,
+      "nonstick": true
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "philips"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 137,
+    "sku": "PAN-5-0137",
+    "product_name": "Ấm siêu tốc Panasonic NC-HU301 3.0L",
+    "description": "Ấm siêu tốc Panasonic NC-HU301 3.0L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 14,
+      "brand_name": "Panasonic",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 1614000,
+    "currency": "VND",
+    "stock_quantity": 24,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.7,
+      "auto_shutoff": true
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "panasonic"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 138,
+    "sku": "LOC-5-0138",
+    "product_name": "Hộp đựng thực phẩm LocknLock Classic 2.0L",
+    "description": "Hộp đựng thực phẩm LocknLock Classic 2.0L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 217000,
+    "currency": "VND",
+    "stock_quantity": 28,
+    "status": "ACTIVE",
+    "attributes": {
+      "material": "Nhựa/Borosilicate"
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 139,
+    "sku": "XIA-5-0139",
+    "product_name": "Máy xay sinh tố Xiaomi Juice Machine 600ml",
+    "description": "Máy xay sinh tố Xiaomi Juice Machine 600ml, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 790000,
+    "currency": "VND",
+    "stock_quantity": 22,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.5,
+      "power_w": 600
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 140,
+    "sku": "ANK-5-0140",
+    "product_name": "Phụ kiện nhà bếp Anker Đèn tủ bếp cảm ứng",
+    "description": "Phụ kiện nhà bếp Anker Đèn tủ bếp cảm ứng, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 9,
+      "brand_name": "Anker",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 457000,
+    "currency": "VND",
+    "stock_quantity": 77,
+    "status": "ACTIVE",
+    "attributes": {
+      "material": "Nhựa/Thép không gỉ"
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "anker"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 141,
+    "sku": "LOC-5-0141",
+    "product_name": "Nồi chiên không dầu LocknLock EJF881 5.5L",
+    "description": "Nồi chiên không dầu LocknLock EJF881 5.5L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 2748000,
+    "currency": "VND",
+    "stock_quantity": 66,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 5.2,
+      "power_w": 1500
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 142,
+    "sku": "PHI-5-0142",
+    "product_name": "Nồi cơm điện Philips HD pot 1.0L",
+    "description": "Nồi cơm điện Philips HD pot 1.0L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 7,
+      "brand_name": "Philips",
+      "origin_country": "Hà Lan"
+    },
+    "price": 890000,
+    "currency": "VND",
+    "stock_quantity": 112,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.8,
+      "nonstick": true
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "philips"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 143,
+    "sku": "PAN-5-0143",
+    "product_name": "Ấm siêu tốc Panasonic NC-GK1 1.7L",
+    "description": "Ấm siêu tốc Panasonic NC-GK1 1.7L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 14,
+      "brand_name": "Panasonic",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 660000,
+    "currency": "VND",
+    "stock_quantity": 89,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.7,
+      "auto_shutoff": true
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "panasonic"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 144,
+    "sku": "LOC-5-0144",
+    "product_name": "Hộp đựng thực phẩm LocknLock Metro 850ml",
+    "description": "Hộp đựng thực phẩm LocknLock Metro 850ml, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 177000,
+    "currency": "VND",
+    "stock_quantity": 46,
+    "status": "ACTIVE",
+    "attributes": {
+      "material": "Nhựa/Borosilicate"
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 145,
+    "sku": "XIA-5-0145",
+    "product_name": "Máy xay sinh tố Xiaomi Blender Pro 1.5L",
+    "description": "Máy xay sinh tố Xiaomi Blender Pro 1.5L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 5,
+      "brand_name": "Xiaomi",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 2190000,
+    "currency": "VND",
+    "stock_quantity": 15,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.5,
+      "power_w": 600
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "xiaomi"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 146,
+    "sku": "ANK-5-0146",
+    "product_name": "Phụ kiện nhà bếp Anker Nhiệt kế thực phẩm",
+    "description": "Phụ kiện nhà bếp Anker Nhiệt kế thực phẩm, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 9,
+      "brand_name": "Anker",
+      "origin_country": "Trung Quốc"
+    },
+    "price": 294000,
+    "currency": "VND",
+    "stock_quantity": 19,
+    "status": "ACTIVE",
+    "attributes": {
+      "material": "Nhựa/Thép không gỉ"
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "anker"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 147,
+    "sku": "LOC-5-0147",
+    "product_name": "Nồi chiên không dầu LocknLock EJF691 6.5L",
+    "description": "Nồi chiên không dầu LocknLock EJF691 6.5L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 2945000,
+    "currency": "VND",
+    "stock_quantity": 89,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 5.2,
+      "power_w": 1500
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 148,
+    "sku": "PHI-5-0148",
+    "product_name": "Nồi cơm điện Philips All-in-One 5L",
+    "description": "Nồi cơm điện Philips All-in-One 5L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 7,
+      "brand_name": "Philips",
+      "origin_country": "Hà Lan"
+    },
+    "price": 2490000,
+    "currency": "VND",
+    "stock_quantity": 84,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.8,
+      "nonstick": true
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "philips"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 149,
+    "sku": "PAN-5-0149",
+    "product_name": "Ấm siêu tốc Panasonic NC-KD300 1.7L",
+    "description": "Ấm siêu tốc Panasonic NC-KD300 1.7L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 14,
+      "brand_name": "Panasonic",
+      "origin_country": "Nhật Bản"
+    },
+    "price": 802000,
+    "currency": "VND",
+    "stock_quantity": 59,
+    "status": "ACTIVE",
+    "attributes": {
+      "capacity_l": 1.7,
+      "auto_shutoff": true
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "panasonic"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  },
+  {
+    "product_id": 150,
+    "sku": "LOC-5-0150",
+    "product_name": "Hộp đựng thực phẩm LocknLock Oven Glass 1.0L",
+    "description": "Hộp đựng thực phẩm LocknLock Oven Glass 1.0L, sản phẩm mẫu thuộc nhóm thiết bị nhà bếp.",
+    "category": {
+      "category_id": 5,
+      "category_name": "Thiết bị nhà bếp",
+      "slug": "thiet-bi-nha-bep"
+    },
+    "brand": {
+      "brand_id": 3,
+      "brand_name": "LocknLock",
+      "origin_country": "Hàn Quốc"
+    },
+    "price": 207000,
+    "currency": "VND",
+    "stock_quantity": 40,
+    "status": "ACTIVE",
+    "attributes": {
+      "material": "Nhựa/Borosilicate"
+    },
+    "tags": [
+      "thiet-bi-nha-bep",
+      "locknlock"
+    ],
+    "updated_at": "2026-11-22T00:00:00Z",
+    "source_system": "mysql_products"
+  }
+]
